@@ -1,6 +1,6 @@
 # Devlogger
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+Stay organized by logging all of your developer tasks that you completed on each project. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
 
@@ -21,3 +21,4 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Stay organized by logging all of your developer tasks that you completed on each project. Created with Angular.
