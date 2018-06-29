@@ -31,7 +31,7 @@ export class LogFormComponent implements OnInit {
     });
   }
 
-  onSubmit(e) {
+  onSubmit() {
     // check if new log
     if (this.isNew) {
       // create a new log
